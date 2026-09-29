@@ -1,0 +1,6 @@
+{
+  "name": "ATAKÉ ATELIER — Haute Couture & Runway Fashion House",
+  "description": "Luxury fashion design house featuring side-by-side dress comparison, 360° runway drape galleries, multi-currency checkout with automated tax calculations, customer reviews, inventory administration, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
